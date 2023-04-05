@@ -46,6 +46,7 @@ const Header = () => {
 
   return (
     <Box
+      id="header"
       position="fixed"
       top={0}
       left={0}
